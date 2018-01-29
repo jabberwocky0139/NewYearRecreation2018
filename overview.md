@@ -24,15 +24,18 @@
 ## ハズレ景品
 景品が大雑把に家電系と食品系に分かれているので、ハズレもそれに沿ったものでいいと思う
 
-- 家電系  
+- 家電系
+
 ``ネタ系ヘッドセット``  
 <img src="./nekomimi.jpg" width=25%>
 
 ほかにもあるかなー
 
-- 食品系  
+- 食品系
+
 ``シーチキン``  
 <img src="./hagoromo.jpg" width=25%>
+
 
 ``haribo``  
 <img src="./haribo.jpg" width=50%>
